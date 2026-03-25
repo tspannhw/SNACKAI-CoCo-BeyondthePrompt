@@ -4,6 +4,18 @@
 
 A Blade Runner-themed demonstration of Snowflake's Enterprise AI capabilities.
 
+
+![img](https://github.com/tspannhw/SNACKAI-CoCo-BeyondthePrompt/blob/main/beyond1.png?raw=true)
+
+![img](https://github.com/tspannhw/SNACKAI-CoCo-BeyondthePrompt/blob/main/beynd6.png?raw=true)
+
+![img](https://github.com/tspannhw/SNACKAI-CoCo-BeyondthePrompt/blob/main/beyond2.png?raw=true)
+
+![img](https://github.com/tspannhw/SNACKAI-CoCo-BeyondthePrompt/blob/main/beyond3.png?raw=true)
+
+![img](https://github.com/tspannhw/SNACKAI-CoCo-BeyondthePrompt/blob/main/beyond4.png?raw=true)
+
+
 ## Quick Start
 
 ```bash
@@ -17,7 +29,15 @@ A Blade Runner-themed demonstration of Snowflake's Enterprise AI capabilities.
 open http://localhost:8509
 ```
 
+![img](https://github.com/tspannhw/SNACKAI-CoCo-BeyondthePrompt/blob/main/beyong5.png?raw=true)
+
+
 ## Architecture
+
+
+![img](https://github.com/tspannhw/SNACKAI-CoCo-BeyondthePrompt/blob/main/2026-03-24_18-37-45_442.jpeg?raw=true)
+
+
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
