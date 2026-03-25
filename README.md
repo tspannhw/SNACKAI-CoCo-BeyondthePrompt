@@ -169,6 +169,10 @@ open http://localhost:8509
   └─────────────────────────────────────────────────────────────────┘
 ```
 
+<img width="928" height="1120" alt="image" src="https://github.com/user-attachments/assets/626a5c99-1e20-4df0-b3e7-6249fd5f08bf" />
+
+
+
 ## Project Structure
 
 ```
